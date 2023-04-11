@@ -1,0 +1,45 @@
+:root{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    padding:100px;
+}
+
+.header{
+    font-weight: 900;
+    font-size: 32px;
+    margin-bottom: 24px;
+    display:block
+}
+.img{
+    width: 18.67px;
+    height: 18.67px;
+}
+.input{
+    border:none
+}
+
+.menu-right{
+    width: 327px;
+    border: 1px #BFC8E6 solid;
+    display:flex;
+    align-items: center;
+}
+.link{
+    width: 121px;
+    height: 56px;
+    display:flex;
+    align-items: center;
+}
+.menu-left{
+    display:flex;
+}
+.menu{
+    width: 1013px;
+    height: 64px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
