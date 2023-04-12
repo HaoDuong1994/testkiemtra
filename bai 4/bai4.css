@@ -28,18 +28,35 @@ body{
     align-items: center;
 }
 .link{
-    width: 121px;
-    height: 56px;
+    width: 115px;
+    height: 30px;
     display:flex;
     align-items: center;
+    padding:16px;
 }
 .menu-left{
     display:flex;
 }
 .menu{
-    width: 1013px;
+    width: 1300px;
     height: 64px;
     display:flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 74px;
+}
+.center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.self{
+    background-color: #849FFF;
+    border-radius: 8px;
+}
+.name-card{
+    display:flex;
+    width: 327px;
+    height:208px;
+    background-color: #FBFCFF;
 }
